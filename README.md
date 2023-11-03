@@ -1,4 +1,4 @@
-<h1>Schedule Jobs</h1>
+<h1>User-gRPC-Go</h1>
 
 <h3> Steps to run the application </h3>
 <h4>  1. Clone the repo </h4>
